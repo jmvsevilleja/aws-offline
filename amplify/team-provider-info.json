@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-aws-offline-dev-122032-authRole",
+      "UnauthRoleArn": "arn:aws:iam::959696267406:role/amplify-aws-offline-dev-122032-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::959696267406:role/amplify-aws-offline-dev-122032-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-aws-offline-dev-122032-deployment",
+      "UnauthRoleName": "amplify-aws-offline-dev-122032-unauthRole",
+      "StackName": "amplify-aws-offline-dev-122032",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:959696267406:stack/amplify-aws-offline-dev-122032/c05ee420-2b13-11ec-8c3f-0ae0caf2fc3a",
+      "AmplifyAppId": "dckssp7sustku"
+    }
+  }
+}
